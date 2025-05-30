@@ -26,7 +26,7 @@ Um aplicativo simples de controle de tarefas pessoal construído com **React** e
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/SamuelBessa/Gerenciador-de-Tarefas.git
-   cd gerenciador-financas
+   cd gerenciador-de-tarefas
 
 2. **Instale as dependências:**
    ```bash
